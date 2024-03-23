@@ -1,4 +1,4 @@
-# Customer Feedback Sentiment Analysis
+# Pretictive Text Analytics For Sentiment analysis on Customer Feedback
 
 This project implements a machine learning model for sentiment analysis on customer feedback. The model is trained on customer feedback data to predict the sentiment (positive or negative) associated with each piece of feedback.
 
